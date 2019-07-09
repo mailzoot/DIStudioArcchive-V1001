@@ -1,2 +1,5 @@
-<ROOT>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1562681502132" Description="DI jobs" Name="DI Jobs" PackageName="DI Jobs.spk" UserID="Marcel" Version="2f48691">
+<ContainObj>SBIP://METASERVER/Data Mart Development/Orion Jobs/DIFT Populate Order Fact Table.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
