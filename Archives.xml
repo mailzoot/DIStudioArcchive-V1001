@@ -118,4 +118,18 @@
 <ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 3 Create Order Fact(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF ReadCountry(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1573474146650" Description="" Name="LSF Package" PackageName="LSF Package.spk" UserID="Marcel" Version="37b97d2">
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 1 Generate Order Item Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 1 Generate Order Types Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 2 Combine OrderItem(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 2 Combine Orders(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 3 Create Order Fact(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF ReadCountry(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 1 Generate Order Item Tables.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 1 Generate Order Types Tables.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 2 Combine OrderItem.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 2 Combine Orders.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 3 Create Order Fact.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF ReadCountry.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
