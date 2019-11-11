@@ -110,4 +110,12 @@
 <ContainObj>SBIP://METASERVER/Data Mart Development/DI Demos/Metadata Rapportage/SQL Server/Flow/LOAD_Metadat_Par(DeployedFlow)</ContainObj>
 <ContainObj>SBIP://METASERVER/Data Mart Development/DI Demos/Metadata Rapportage/User transformation/GENERATE_METADATA_LINEAGE_DS(GeneratedTransform)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1573473925367" Description="Alle lsf Jobs&#10;" Name="LSF Jobs" PackageName="LSF Jobs.spk" UserID="Marcel" Version="267b33d">
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 1 Generate Order Item Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 1 Generate Order Types Tables(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 2 Combine OrderItem(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 2 Combine Orders(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF 3 Create Order Fact(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Mart Development/LSF/Jobs/LSF ReadCountry(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
